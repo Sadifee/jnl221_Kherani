@@ -15,14 +15,15 @@ p {
 	height: auto;
 	font-weight: bold;
 	font-size: 35px;
-	margin-top: 10px;
 	background-color: darkgreen;
 	opacity: 0.5;
 	color: white;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 }
-
+h2 {
+	margin-top: 10px;
+}
 h4 {
 	font-size: 20px;
 	font-family:'Anybody', cursive;
