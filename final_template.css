@@ -1,7 +1,9 @@
 /*This is the CSS page for our final template.*/
 
 .footer p {
-	background-color: #cccccc;
+	background-color: darkgreen;
+	opacity: 0.5;
+	color: white;
 	text-align: center;
 	font-size: 20px;
 	margin-bottom: 0;
@@ -27,15 +29,20 @@ h2 {
 h4 {
 	font-size: 20px;
 	font-family:'Anybody', cursive;
+
 }
 h3 {
 	font-size: 30px;
-	font-family: 'Pacifico', cursive;
+	font-family:'Anybody', cursive;
+}
+h5 {
+	font-size: 30;
+	font-family: 'Playfair Display', serif;
 }
 img {
-	float: left;
-	margin-right: 5%;
-	margin-left: 5%;
+	float: right;
+	margin-right: 2%;
+	margin-left: 2%;
 }
 
 @media only screen and (max-width: 767px)
